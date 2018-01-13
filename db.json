@@ -1,0 +1,35 @@
+{
+  "photos": [
+    {
+      "id": "1",
+      "url": "http://via.placeholder.com/350x150",
+      "credit": "1"
+    },
+    {
+      "id": "2",
+      "url": "http://via.placeholder.com/350x150",
+      "credit": "1"
+    },
+    {
+      "id": "3",
+      "url": "http://via.placeholder.com/350x150",
+      "credit": "1"
+    },
+    {
+      "id": "4",
+      "url": "http://via.placeholder.com/350x150",
+      "credit": "1"
+    },
+    {
+      "id": "5",
+      "url": "http://via.placeholder.com/350x150",
+      "credit": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    }
+  ]
+}
